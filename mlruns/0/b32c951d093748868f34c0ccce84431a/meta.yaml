@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RANASINGHE/mlflow-test/mlruns/0/b32c951d093748868f34c0ccce84431a/artifacts
+end_time: 1720680463765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b32c951d093748868f34c0ccce84431a
+run_name: righteous-deer-689
+run_uuid: b32c951d093748868f34c0ccce84431a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720680460623
+status: 3
+tags: []
+user_id: RANASINGHE
